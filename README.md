@@ -1,1 +1,1 @@
-# DataAnakyst_post_LinkedIn
+# DataAnalyst_post_LinkedIn
